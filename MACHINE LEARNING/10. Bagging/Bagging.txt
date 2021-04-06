@@ -1,0 +1,6 @@
+Bagging : The term bagging is also known as bootstrap aggregation. 
+          In bagging methods, ensemble model tries to improve prediction accuracy and decrease model
+           variance by combining predictions of individual models trained over randomly generated
+            training samples.The final prediction of ensemble model will be given by calculating 
+            the average of all predictions from the individual estimators. 
+            One of the best examples of bagging methods are random forests.
